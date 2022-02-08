@@ -5,7 +5,7 @@ This parser also works with diffucult nested json files.
 # **Usage:**
 
   1. Unpack JSONParser.unitypackage to your unity project
-  2. Create new instance of JSONParseler in your desired script and give a type of custom class that should be filled with parsed data, also create new instance of desired class (first image)
+  2. Create new instance of JSONParser in your desired script and give a type of custom class that should be filled with parsed data, also create new instance of desired class (first image)
   3. Assign desired class to the parsed data with a method RequestParsingAsync(url link to json that contains data), strictly use "await" whenever you request parsing (second image)
   4. On the fourth image you can see that desired class is filled with all data from json file.
 
