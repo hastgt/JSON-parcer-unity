@@ -1,5 +1,6 @@
 # JSON-url parser for unity
 A simple json-url parser for unity with the help of [JsonDotNet](https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347)
+You need to download JsonDotNet (it's free) since json deserializer from unity is not good enough.
 
 # **Usage:**
 
